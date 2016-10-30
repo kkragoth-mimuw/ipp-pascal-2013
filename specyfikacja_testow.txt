@@ -1,0 +1,18 @@
+Na początku pliku powinnna znaleźć się liczba oznaczająca
+ilość przygotowanych testów.
+
+Każdy test składa się ze zdania z lukami i jest oddzielony linijką '---' od dostępnych do wstawienia wyrazów.
+Każdy test kończy się pojedyńczym znakiem '@'.
+
+Luki są reprezentowane przez >[Poprawne_Słowo]< gdzie [Poprawne_Slowo] jest odpowiedzią.
+Jeżeli [Poprawne_Słowo] składa się z wielu słów, to zamiast spacji trzeba napisać '_'.
+Przykład: >Adam_Małysz<.
+Uwaga: Wszystkie '_' w pliku będą wyświetlane w programie jako spacja.
+
+Wszystkie Odpowiedzi powinny się znaleźć w dostępnych wyrazach. Dodatkowo można dopisać
+inne zbędne słowa.
+
+Znaki specjalne w pliku:
+'---' oddziela zdanie od dostępnych wyrazów
+'@' koniec testu
+'_' służy do łączenia wielu słów w jeden Label.   

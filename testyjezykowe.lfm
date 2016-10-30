@@ -1,0 +1,160 @@
+object Okno: TOkno
+  Left = 499
+  Height = 600
+  Top = 33
+  Width = 800
+  BorderIcons = [biMinimize]
+  BorderStyle = bsDialog
+  Caption = 'Testy językowe'
+  ClientHeight = 600
+  ClientWidth = 800
+  Color = clSkyBlue
+  Position = poDesktopCenter
+  LCLVersion = '1.0.10.0'
+  object Kontrolki: TPanel
+    Left = 648
+    Height = 584
+    Top = 8
+    Width = 138
+    ClientHeight = 584
+    ClientWidth = 138
+    TabOrder = 0
+    object IloscPoprawnych: TLabel
+      Left = 24
+      Height = 25
+      Top = 168
+      Width = 100
+      Align = alCustom
+      Alignment = taCenter
+      AutoSize = False
+      Caption = '0'
+      Color = clLime
+      Font.Height = -21
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+      Transparent = False
+    end
+    object Testuj: TButton
+      Left = 16
+      Height = 96
+      Top = 400
+      Width = 112
+      Caption = 'Otwórz Test'
+      Color = clMoneyGreen
+      Font.Style = [fsBold]
+      OnClick = TestujClick
+      ParentFont = False
+      TabOrder = 0
+    end
+    object Zakoncz: TButton
+      Left = 16
+      Height = 47
+      Top = 520
+      Width = 112
+      Caption = 'Zakończ'
+      Color = 9803263
+      Font.Style = [fsBold]
+      OnClick = ZakonczClick
+      ParentFont = False
+      TabOrder = 1
+    end
+    object IloscBlednych: TLabel
+      Left = 24
+      Height = 25
+      Top = 272
+      Width = 100
+      Align = alCustom
+      Alignment = taCenter
+      AutoSize = False
+      Caption = '0'
+      Color = clRed
+      Font.Height = -21
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+      Transparent = False
+    end
+    object IloscTestow: TLabel
+      Left = 24
+      Height = 25
+      Top = 64
+      Width = 100
+      Align = alCustom
+      Alignment = taCenter
+      AutoSize = False
+      Caption = '0/0'
+      Color = clMoneyGreen
+      Font.Height = -21
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+      Transparent = False
+    end
+    object StaticTest: TLabel
+      Left = 13
+      Height = 25
+      Top = 16
+      Width = 120
+      Align = alCustom
+      Alignment = taCenter
+      AutoSize = False
+      Caption = 'Test'
+      Font.Height = -20
+      ParentColor = False
+      ParentFont = False
+    end
+    object StaticPoprawne: TLabel
+      Left = 13
+      Height = 25
+      Top = 120
+      Width = 120
+      Align = alCustom
+      Alignment = taCenter
+      AutoSize = False
+      Caption = 'Poprawnych'
+      Font.Height = -20
+      ParentColor = False
+      ParentFont = False
+    end
+    object StaticBledne: TLabel
+      Left = 13
+      Height = 25
+      Top = 224
+      Width = 120
+      Align = alCustom
+      Alignment = taCenter
+      AutoSize = False
+      Caption = 'Błędnych'
+      Font.Height = -20
+      ParentColor = False
+      ParentFont = False
+    end
+  end
+  object Wyrazy: TGroupBox
+    Left = 8
+    Height = 168
+    Top = 424
+    Width = 625
+    Caption = 'Dostępne Wyrazy'
+    Color = clCream
+    ParentColor = False
+    TabOrder = 1
+  end
+  object Zdanie: TGroupBox
+    Left = 8
+    Height = 401
+    Top = 8
+    Width = 624
+    Caption = 'Uzupełnij Zdanie'
+    Color = clCream
+    ParentColor = False
+    TabOrder = 2
+  end
+  object OpenDialog1: TOpenDialog
+    Width = 840
+    Height = 630
+    left = 744
+    top = 352
+  end
+end

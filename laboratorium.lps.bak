@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="laboratorium.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="laboratorium"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="11" Y="7"/>
+        <UsageCount Value="46"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="testyjezykowe.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Okno"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="testyjezykowe"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="202"/>
+        <CursorPos X="17" Y="202"/>
+        <UsageCount Value="46"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="/usr/lib/lazarus/1.0.10/lcl/lclclasses.pp"/>
+        <UnitName Value="LCLClasses"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="19"/>
+        <CursorPos X="39" Y="31"/>
+        <UsageCount Value="8"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="/usr/share/fpcsrc/2.6.2/packages/palmunits/src/control.pp"/>
+        <UnitName Value="control"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="167"/>
+        <CursorPos X="20" Y="186"/>
+        <UsageCount Value="20"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/share/fpcsrc/2.6.2/rtl/objpas/objpas.pp"/>
+        <UnitName Value="objpas"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="70"/>
+        <CursorPos X="36" Y="13"/>
+        <UsageCount Value="8"/>
+      </Unit4>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="408" Column="5" TopLine="402"/>
+      </Position1>
+      <Position2>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="411" Column="5" TopLine="377"/>
+      </Position2>
+      <Position3>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="410" Column="5" TopLine="376"/>
+      </Position3>
+      <Position4>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="409" Column="5" TopLine="375"/>
+      </Position4>
+      <Position5>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="391" Column="1" TopLine="375"/>
+      </Position5>
+      <Position6>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="105" Column="16" TopLine="87"/>
+      </Position6>
+      <Position7>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="106" Column="18" TopLine="89"/>
+      </Position7>
+      <Position8>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="235" Column="34" TopLine="218"/>
+      </Position8>
+      <Position9>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="106" Column="8" TopLine="87"/>
+      </Position9>
+      <Position10>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="249" Column="61" TopLine="233"/>
+      </Position10>
+      <Position11>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="251" Column="14" TopLine="234"/>
+      </Position11>
+      <Position12>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="252" Column="48" TopLine="238"/>
+      </Position12>
+      <Position13>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="256" Column="48" TopLine="239"/>
+      </Position13>
+      <Position14>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="277" Column="34" TopLine="261"/>
+      </Position14>
+      <Position15>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="288" Column="36" TopLine="265"/>
+      </Position15>
+      <Position16>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="31" Column="30" TopLine="14"/>
+      </Position16>
+      <Position17>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="32" Column="30" TopLine="14"/>
+      </Position17>
+      <Position18>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="183" Column="58" TopLine="168"/>
+      </Position18>
+      <Position19>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="273" Column="28" TopLine="1"/>
+      </Position19>
+      <Position20>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="272" Column="28" TopLine="238"/>
+      </Position20>
+      <Position21>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="264" Column="38" TopLine="238"/>
+      </Position21>
+      <Position22>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="33" Column="27" TopLine="14"/>
+      </Position22>
+      <Position23>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="187" Column="45" TopLine="165"/>
+      </Position23>
+      <Position24>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="284" Column="5" TopLine="251"/>
+      </Position24>
+      <Position25>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="272" Column="18" TopLine="255"/>
+      </Position25>
+      <Position26>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="273" Column="27" TopLine="260"/>
+      </Position26>
+      <Position27>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="272" Column="32" TopLine="255"/>
+      </Position27>
+      <Position28>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="271" Column="32" TopLine="254"/>
+      </Position28>
+      <Position29>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="107" Column="31" TopLine="98"/>
+      </Position29>
+      <Position30>
+        <Filename Value="testyjezykowe.pas"/>
+        <Caret Line="8" Column="22" TopLine="1"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
